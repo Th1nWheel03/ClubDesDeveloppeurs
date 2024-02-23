@@ -1,5 +1,3 @@
-import numpy
-
 nomber_species = 0
 
 with open("donnees.txt", 'r') as file:
